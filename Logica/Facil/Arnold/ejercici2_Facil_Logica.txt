@@ -1,0 +1,32 @@
+======================================================================
+COPA HELLO WORLD
+Categoría: LÓGICA  |  Nivel: FÁCIL  |  Ejercicio 2
+Tema: Analizar problemas y operadores (módulos 2 y 3)
+Puntaje total: 100 puntos  |  Tiempo sugerido: 8 minutos
+======================================================================
+
+INSTRUCCIONES
+Este ejercicio tiene tres preguntas (40, 30 y 30 puntos).
+
+FORMATO DE RESPUESTA
+1-<letras en orden>, 2-X, 3-X   (ejemplo: 1-A-B-C-D, 2-C, 3-B)
+
+1. (40 puntos) Ordena los pasos de un programa que calcula el total de una compra con IVA del 19%.
+   Escribe las letras en el orden correcto de ejecución.
+
+   A) Mostrar el total
+   B) Calcular total = subtotal + iva
+   C) Calcular iva = subtotal x 0.19
+   D) Leer el subtotal
+
+2. (30 puntos) Un programa recibe la temperatura en grados Celsius y muestra su equivalente en Fahrenheit. ¿Cuál es la entrada, el proceso y la salida?
+   A) Entrada: la temperatura en Fahrenheit; proceso: leerla; salida: la temperatura en Celsius
+   B) Entrada: la temperatura en Celsius; proceso: aplicar la fórmula de conversión; salida: la temperatura en Fahrenheit
+   C) Entrada: la fórmula; proceso: mostrar el resultado; salida: la temperatura en Celsius
+   D) Entrada: ninguna; proceso: leer; salida: la fórmula
+
+3. (30 puntos) ¿Qué operador usarías para saber si un número entero es par?
+   A) La suma (+) con 2
+   B) La multiplicación (*) por 2
+   C) El módulo o residuo (%) de dividir entre 2, comparado con 0
+   D) La resta (-) de 2

@@ -1,0 +1,32 @@
+======================================================================
+COPA HELLO WORLD
+Categoría: TEORÍA  |  Nivel: FÁCIL  |  Ejercicio 2
+Tema: Tipos de datos, variables y constantes (módulo 3)
+Puntaje total: 100 puntos  |  Tiempo sugerido: 8 minutos
+======================================================================
+
+INSTRUCCIONES
+Este ejercicio tiene tres partes. Responde cada una según su formato.
+Nota: las comillas simples ('A') indican un solo carácter y las comillas dobles ("Hola") indican un texto.
+
+PARTE 1 (40 puntos, 8 por cada relación): Relaciona cada valor con su tipo de dato.
+
+   Valores:                      Tipos de dato:
+   1) 42                         A) Entero
+   2) 3.14                       B) Decimal
+   3) "Hola"                     C) Cadena de texto
+   4) true                       D) Booleano
+   5) 'A'                        E) Carácter
+
+   Formato de respuesta: 1-X, 2-X, 3-X, 4-X, 5-X
+
+PARTE 2 (30 puntos): Respuesta abierta.
+   Explica con tus palabras qué es una variable y qué es una constante, y da un ejemplo de cada una.
+   (Máximo 5 líneas.)
+
+PARTE 3 (30 puntos, 10 por cada una): Verdadero o falso.
+   a) Una variable tiene un nombre y almacena un valor de algún tipo.
+   b) El valor de una constante puede cambiar mientras el programa se ejecuta.
+   c) El residuo de dividir 7 entre 2 es 1.
+
+   Formato de respuesta: a-V/F, b-V/F, c-V/F

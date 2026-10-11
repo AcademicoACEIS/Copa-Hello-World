@@ -1,0 +1,40 @@
+======================================================================
+COPA HELLO WORLD
+Categoría: PROGRAMACIÓN  |  Nivel: FÁCIL  |  Ejercicio 2
+Tema: Ciclos (módulo 5)
+Puntaje total: 100 puntos  |  Tiempo sugerido: 8 minutos
+======================================================================
+
+TÍTULO
+Suma de 1 hasta N
+
+ENUNCIADO
+Un programa lee un número N y muestra la suma de todos los enteros desde 1 hasta N:
+1 + 2 + 3 + ... + N.
+
+ENTRADA
+Un número entero N.
+
+SALIDA
+Solo el valor de la suma.
+
+RESTRICCIONES
+1 <= N <= 1000
+
+EJEMPLO 1
+Entrada:
+5
+Salida:
+15
+
+EJEMPLO 2
+Entrada:
+10
+Salida:
+55
+
+QUÉ DEBES HACER
+Se te entregan dos archivos con el mismo programa incompleto: uno en Python (ejercici2_Facil_Programacion.py) y otro en C++ (ejercici2_Facil_Programacion.cpp).
+Elige UNO de los dos. Reemplaza cada espacio ___N___ por la sintaxis correcta (un operador, una palabra clave o un valor)
+para que el programa produzca la salida pedida. No cambies el resto del código.
+El ejercicio tiene 5 espacios y cada uno vale 20 puntos.

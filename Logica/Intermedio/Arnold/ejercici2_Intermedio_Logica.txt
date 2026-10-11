@@ -1,0 +1,30 @@
+======================================================================
+COPA HELLO WORLD
+Categoría: LÓGICA  |  Nivel: INTERMEDIO  |  Ejercicio 2
+Tema: Elegir arreglos, ciclos anidados y funciones (módulos 5, 6 y 7)
+Puntaje total: 200 puntos  |  Tiempo sugerido: 12 minutos
+======================================================================
+
+INSTRUCCIONES
+Para cada situación, elige el enfoque de programación más adecuado. Hay una sola respuesta correcta por pregunta (60, 60 y 80 puntos).
+
+FORMATO DE RESPUESTA
+1-X, 2-X, 3-X
+
+1. (60 puntos) Se tienen 50 temperaturas registradas y se quiere encontrar la mayor. ¿Cuál es el enfoque más adecuado?
+   A) Guardar cada temperatura en una variable distinta y escribir 49 condicionales distintos
+   B) Guardarlas en un arreglo y recorrerlo con un ciclo, actualizando una variable "mayor" cuando se encuentre un valor más grande
+   C) Usar un switch-case con 50 casos
+   D) Sumar todas las temperaturas y dividir entre 50
+
+2. (60 puntos) El código que calcula el promedio de 3 notas se necesita en 5 lugares distintos del programa. ¿Qué conviene hacer?
+   A) Copiar y pegar el código 5 veces
+   B) Usar un ciclo infinito
+   C) Crear una función que calcule el promedio y llamarla en cada lugar
+   D) Guardar el promedio en una constante
+
+3. (80 puntos) Se tiene una matriz de 5 filas (vendedores) por 4 columnas (meses) con las ventas de cada uno. Se quiere el total vendido por cada vendedor. ¿Qué usarías?
+   A) Un solo condicional que compare todas las ventas
+   B) Un ciclo externo que recorra las filas y un ciclo interno que recorra las columnas sumando
+   C) Un arreglo de una dimensión sin ciclos
+   D) Una función sin ciclos ni condicionales

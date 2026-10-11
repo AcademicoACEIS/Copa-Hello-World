@@ -1,0 +1,50 @@
+======================================================================
+COPA HELLO WORLD
+Categoría: PROGRAMACIÓN  |  Nivel: INTERMEDIO  |  Ejercicio 1
+Tema: Arreglos, ciclos y condicionales (módulos 4, 5 y 7)
+Puntaje total: 200 puntos  |  Tiempo sugerido: 15 minutos
+======================================================================
+
+TÍTULO
+El mayor de la lista
+
+ENUNCIADO
+Un programa lee una lista de n números enteros, la guarda en un arreglo y muestra el mayor.
+Para encontrarlo, parte del primer elemento y lo compara con los demás, recorriendo el arreglo.
+
+ENTRADA
+Primera línea: n, la cantidad de números.
+Las siguientes n líneas: un número entero cada una.
+
+SALIDA
+El mayor de los números.
+
+RESTRICCIONES
+1 <= n <= 100;  -1000 <= cada número <= 1000
+
+EJEMPLO 1
+Entrada:
+6
+12
+45
+7
+89
+23
+56
+Salida:
+89
+
+EJEMPLO 2
+Entrada:
+3
+-5
+-2
+-9
+Salida:
+-2
+
+QUÉ DEBES HACER
+Se te entregan dos archivos con el mismo programa incompleto: uno en Python (ejercici1_Intermedio_Programacion.py) y otro en C++ (ejercici1_Intermedio_Programacion.cpp).
+Elige UNO de los dos. Reemplaza cada espacio ___N___ por la sintaxis correcta (un operador, una palabra clave o un valor)
+para que el programa produzca la salida pedida. No cambies el resto del código.
+El ejercicio tiene 4 espacios y cada uno vale 50 puntos.

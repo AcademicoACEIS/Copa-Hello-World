@@ -1,0 +1,42 @@
+======================================================================
+COPA HELLO WORLD
+Categoría: PROGRAMACIÓN  |  Nivel: INTERMEDIO  |  Ejercicio 2
+Tema: Funciones, ciclos, condicionales y operadores (módulos 3 a 6)
+Puntaje total: 200 puntos  |  Tiempo sugerido: 15 minutos
+======================================================================
+
+TÍTULO
+¿Cuántos primos hay?
+
+ENUNCIADO
+Un número primo es mayor que 1 y solo es divisible entre 1 y entre sí mismo.
+La función es_primo(n) devuelve 1 si n es primo y 0 si no lo es. Para comprobarlo, prueba dividir n entre
+i = 2, 3, 4, ... mientras i * i sea menor o igual que n: si alguna división es exacta, n no es primo.
+El programa usa esa función para contar cuántos números primos hay entre 1 y limite.
+
+ENTRADA
+Un número entero limite.
+
+SALIDA
+La cantidad de números primos entre 1 y limite (incluyéndolo).
+
+RESTRICCIONES
+1 <= limite <= 1000
+
+EJEMPLO 1
+Entrada:
+20
+Salida:
+8
+
+EJEMPLO 2
+Entrada:
+10
+Salida:
+4
+
+QUÉ DEBES HACER
+Se te entregan dos archivos con el mismo programa incompleto: uno en Python (ejercici2_Intermedio_Programacion.py) y otro en C++ (ejercici2_Intermedio_Programacion.cpp).
+Elige UNO de los dos. Reemplaza cada espacio ___N___ por la sintaxis correcta (un operador, una palabra clave o un valor)
+para que el programa produzca la salida pedida. No cambies el resto del código.
+El ejercicio tiene 5 espacios y cada uno vale 40 puntos.

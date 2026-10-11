@@ -1,0 +1,40 @@
+======================================================================
+COPA HELLO WORLD
+Categoría: PROGRAMACIÓN  |  Nivel: FÁCIL  |  Ejercicio 1
+Tema: Condicionales y operadores aritméticos (módulos 3 y 4)
+Puntaje total: 100 puntos  |  Tiempo sugerido: 8 minutos
+======================================================================
+
+TÍTULO
+¿Par o impar?
+
+ENUNCIADO
+Un programa lee un número entero e indica si es par o impar.
+Un número es par si al dividirlo entre 2 el residuo es 0.
+
+ENTRADA
+Un número entero n.
+
+SALIDA
+La palabra Par o la palabra Impar (con esa escritura exacta).
+
+RESTRICCIONES
+-1000 <= n <= 1000
+
+EJEMPLO 1
+Entrada:
+4
+Salida:
+Par
+
+EJEMPLO 2
+Entrada:
+7
+Salida:
+Impar
+
+QUÉ DEBES HACER
+Se te entregan dos archivos con el mismo programa incompleto: uno en Python (ejercici1_Facil_Programacion.py) y otro en C++ (ejercici1_Facil_Programacion.cpp).
+Elige UNO de los dos. Reemplaza cada espacio ___N___ por la sintaxis correcta (un operador, una palabra clave o un valor)
+para que el programa produzca la salida pedida. No cambies el resto del código.
+El ejercicio tiene 4 espacios y cada uno vale 25 puntos.

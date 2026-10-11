@@ -1,0 +1,43 @@
+======================================================================
+COPA HELLO WORLD
+Categoría: TEORÍA  |  Nivel: INTERMEDIO  |  Ejercicio 1
+Tema: Scope, operadores aritméticos, relacionales y lógicos (módulo 3)
+Puntaje total: 200 puntos  |  Tiempo sugerido: 15 minutos
+======================================================================
+
+INSTRUCCIONES
+Las preguntas 1 y 2 son de selección múltiple (una sola respuesta correcta). Las preguntas 3 y 4 tienen su propio formato.
+Todo el código está escrito en pseudocódigo.
+
+1. (50 puntos) Observa el siguiente pseudocódigo. ¿Qué ocurre al ejecutar la última línea (mostrar descuento)?
+    total = 100
+    
+    funcion calcular()
+        descuento = 10
+        mostrar total - descuento
+    fin funcion
+    
+    calcular()
+    mostrar descuento
+   A) Muestra 10
+   B) Muestra 90
+   C) Da un error, porque descuento es una variable local y no existe fuera de la función
+   D) Muestra 100
+
+2. (50 puntos) En este pseudocódigo, % es el residuo de la división. ¿Cuánto vale resultado?
+    resultado = 17 % 5 + 2 * 3
+   A) 12
+   B) 8
+   C) 11
+   D) 5
+
+3. (50 puntos, 25 por cada una) Verdadero o falso.
+   Sean a = verdadero, b = falso y c = verdadero. Indica si el resultado de cada expresión es verdadero (V) o falso (F):
+   a) (a Y b) O (NO b Y c)
+   b) NO (a O b)
+
+   Formato de respuesta: 3a-V/F, 3b-V/F
+
+4. (50 puntos) Respuesta abierta.
+   Escribe en pseudocódigo UNA condición que sea verdadera solo cuando el número n esté entre 10 y 20,
+   incluyendo ambos extremos (n puede valer 10 o 20).

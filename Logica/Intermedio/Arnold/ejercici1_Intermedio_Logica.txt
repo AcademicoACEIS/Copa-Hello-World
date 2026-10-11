@@ -1,0 +1,30 @@
+======================================================================
+COPA HELLO WORLD
+Categoría: LÓGICA  |  Nivel: INTERMEDIO  |  Ejercicio 1
+Tema: Elegir ciclos, switch-case y operadores lógicos (módulos 3, 4 y 5)
+Puntaje total: 200 puntos  |  Tiempo sugerido: 12 minutos
+======================================================================
+
+INSTRUCCIONES
+Para cada situación, elige la herramienta o expresión de programación que mejor la resuelve. Hay una sola respuesta correcta por pregunta (60, 70 y 70 puntos).
+
+FORMATO DE RESPUESTA
+1-X, 2-X, 3-X
+
+1. (60 puntos) Se quiere leer números que escribe el usuario y sumarlos, hasta que escriba un 0. No se sabe cuántos números escribirá. ¿Qué usarías?
+   A) Un ciclo que se repite un número fijo de veces conocido de antemano
+   B) Un ciclo while que repita mientras el valor leído sea distinto de 0
+   C) Un switch-case
+   D) Una constante
+
+2. (70 puntos) Una tienda muestra un menú con 4 opciones (1 a 4) y cada opción ejecuta una acción distinta. ¿Qué estructura es la más natural para decidir qué acción ejecutar?
+   A) Una constante por cada opción
+   B) Un switch-case que compare la opción elegida con cada caso
+   C) Un ciclo for que recorre una matriz
+   D) Un operador aritmético
+
+3. (70 puntos) Entra al evento quien es mayor de edad y tiene entrada, o quien es VIP (sin importar su edad ni si tiene entrada). ¿Qué condición lo describe?
+   A) edad >= 18 Y (tiene_entrada O es_vip)
+   B) edad >= 18 O tiene_entrada O es_vip
+   C) (edad >= 18 Y tiene_entrada) O es_vip
+   D) edad >= 18 Y tiene_entrada Y es_vip

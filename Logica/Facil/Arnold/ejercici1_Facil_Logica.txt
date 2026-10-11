@@ -1,0 +1,30 @@
+======================================================================
+COPA HELLO WORLD
+Categoría: LÓGICA  |  Nivel: FÁCIL  |  Ejercicio 1
+Tema: Elegir condicionales, ciclos y arreglos (módulos 4, 5 y 7)
+Puntaje total: 100 puntos  |  Tiempo sugerido: 8 minutos
+======================================================================
+
+INSTRUCCIONES
+Para cada situación, elige qué herramienta de programación usarías para resolverla. Hay una sola respuesta correcta por pregunta (30, 30 y 40 puntos).
+
+FORMATO DE RESPUESTA
+1-X, 2-X, 3-X
+
+1. (30 puntos) Un cine cobra $6.000 a los menores de 12 años y $10.000 a los demás. Se quiere un programa que calcule el valor de la entrada según la edad. ¿Qué usarías?
+   A) Un ciclo que repita el cálculo 12 veces
+   B) Un condicional (if - else) que compare la edad con 12
+   C) Un arreglo de 12 posiciones
+   D) Una constante llamada EDAD
+
+2. (30 puntos) Se quiere mostrar en pantalla la tabla de multiplicar del 7 (de 7 x 1 hasta 7 x 10). ¿Qué usarías?
+   A) Un condicional que compare 7 con 10
+   B) Un switch-case con dos opciones
+   C) Un ciclo (for o while) que repita la multiplicación 10 veces cambiando el multiplicador
+   D) Una constante que guarde el resultado
+
+3. (40 puntos) Se quieren guardar las 30 notas de un curso y calcular su promedio. ¿Qué combinación usarías?
+   A) Un arreglo para guardar las notas y un ciclo para recorrerlas y sumarlas
+   B) Treinta variables sueltas y treinta sumas escritas a mano
+   C) Solo un switch-case
+   D) Solo un condicional

@@ -1,0 +1,36 @@
+======================================================================
+COPA HELLO WORLD
+Categoría: TEORÍA  |  Nivel: FÁCIL  |  Ejercicio 1
+Tema: Lenguajes, IDE y paradigmas (módulo 1)
+Puntaje total: 100 puntos  |  Tiempo sugerido: 8 minutos
+======================================================================
+
+INSTRUCCIONES
+Selecciona la única respuesta correcta en cada pregunta. Cada pregunta vale 25 puntos.
+
+FORMATO DE RESPUESTA
+1-X, 2-X, 3-X, 4-X   (ejemplo: 1-A, 2-C, 3-B, 4-D)
+
+1. (25 puntos) ¿Cuál es la diferencia principal entre un lenguaje compilado y uno interpretado?
+   A) El compilado se traduce completo a código máquina antes de ejecutarse; el interpretado se traduce y ejecuta instrucción por instrucción.
+   B) El interpretado no necesita un computador para ejecutarse.
+   C) El compilado solo sirve para crear páginas web.
+   D) El interpretado siempre es más rápido que el compilado.
+
+2. (25 puntos) ¿Cuál de estos pares contiene solo lenguajes de alto nivel?
+   A) Ensamblador y código máquina
+   B) Código máquina y Python
+   C) Python y Java
+   D) Ensamblador y Java
+
+3. (25 puntos) ¿Qué es un IDE?
+   A) Un tipo de lenguaje de programación
+   B) Un sistema operativo
+   C) Un navegador web
+   D) Un entorno que integra editor de código, ejecución y herramientas para depurar
+
+4. (25 puntos) ¿Qué es un paradigma de programación?
+   A) Una librería con funciones listas para usar
+   B) Un estilo o enfoque para organizar y escribir programas
+   C) Un tipo de computador
+   D) Un error que detiene el programa

@@ -1,0 +1,51 @@
+======================================================================
+COPA HELLO WORLD
+Categoría: TEORÍA  |  Nivel: INTERMEDIO  |  Ejercicio 2
+Tema: Ciclos (break y continue), funciones y modularidad (módulos 5 y 6)
+Puntaje total: 200 puntos  |  Tiempo sugerido: 15 minutos
+======================================================================
+
+INSTRUCCIONES
+Este ejercicio tiene cuatro preguntas con distinto formato. Todo el código está en pseudocódigo.
+La instrucción "continuar" salta al inicio de la siguiente repetición del ciclo.
+
+1. (40 puntos) Observa el siguiente pseudocódigo. ¿Qué ocurre al ejecutarlo?
+    i = 1
+    mientras i <= 5 hacer
+        si i == 3 entonces
+            continuar
+        fin si
+        mostrar i
+        i = i + 1
+    fin mientras
+   A) Muestra 1, 2, 4, 5
+   B) Muestra 1 y 2, y luego se queda repitiendo sin terminar (ciclo infinito)
+   C) Muestra 1, 2, 3, 4, 5
+   D) Da un error porque "continuar" no existe
+
+2. (40 puntos) Respuesta abierta.
+   Explica en qué se diferencia un ciclo while de un ciclo do-while y da un ejemplo de una situación
+   donde sea más adecuado usar do-while. (Máximo 5 líneas.)
+
+3. (60 puntos, 15 por cada una) Partes de una función. Observa el pseudocódigo:
+
+    funcion area_rectangulo(base, altura)
+        resultado = base * altura
+        retornar resultado
+    fin funcion
+
+    a = area_rectangulo(4, 5)
+
+   a) ¿Cuál es el nombre de la función?
+   b) ¿Cuáles son sus parámetros?
+   c) ¿Cuáles son los argumentos de la llamada?
+   d) ¿Qué valor queda guardado en a?
+
+   Formato de respuesta: 3a-..., 3b-..., 3c-..., 3d-...
+
+4. (60 puntos, 20 por cada una) Verdadero o falso, con justificación de una línea.
+   a) Un ciclo infinito siempre es un error de programación.
+   b) Un ciclo anidado con 3 vueltas externas y 4 internas ejecuta el cuerpo interno 12 veces.
+   c) Dividir un programa en funciones facilita reutilizar y probar el código.
+
+   Formato de respuesta: 4a-V/F + justificación, 4b-V/F + justificación, 4c-V/F + justificación
