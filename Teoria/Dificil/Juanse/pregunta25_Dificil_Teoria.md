@@ -8,7 +8,7 @@
 ¿Qué problema tiene declarar la variable "suma" dentro del ciclo en lugar de antes?
 
 - A) Ninguno, funciona igual
-- B) Se reinicia a 0 en cada iteración y nunca acumula
+- B) Se reinicia en cada iteración y nunca acumula
 - C) El programa no compila
 - D) Solo afecta al último valor
 
